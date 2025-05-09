@@ -1,10 +1,5 @@
-## Hi there 👋
 
 ## 📊 GitHub Stats
-![kimyeonhoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyeonhoo&show_icons=true&theme=dark)
-
-# 👋 Hi, I'm kimyeonhoo!
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=soollaassiido)](https://solved.ac/soollaassiido)
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)
