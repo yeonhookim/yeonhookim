@@ -1,13 +1,10 @@
 <div align="center">
 
-| <img src="https://img.shields.io/badge/Data Science-DF1F2D?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Science" width="150"/><br/><span style="color:#DF1F2D; font-weight:bold;">Major</span> | 
-  <span>
-    <img src="https://img.shields.io/badge/Software-2B3784?style=for-the-badge&logoColor=white" alt="Software" width="120"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="28" style="vertical-align:middle; margin-left:6px;"/>
-    <br/>
-    <span style="color:#2B3784; font-weight:bold;">Double Major</span>
-  </span> |
-| :---: | :---: |
+  <img src="https://img.shields.io/badge/Data Science-DF1F2D?style=flat-square&logo=databricks&logoColor=white" height="22"/>
+  <span style="font-weight:bold; color:#DF1F2D;">Major</span>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Software-2B3784?style=flat-square&logo=visualstudiocode&logoColor=white" height="22"/>
+  <span style="font-weight:bold; color:#2B3784;">Double Major</span>
 
 </div>
 
