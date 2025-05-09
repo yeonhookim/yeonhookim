@@ -45,9 +45,7 @@
   <img src="https://img.shields.io/badge/Keras-DF1F2D?style=for-the-badge&logo=keras&logoColor=white"/>
 
 </div>
-___
-
-
+---
 <!-- GitHub Stats -->
 ![kimyeonhoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyeonhoo&show_icons=true&theme=dark)
 
