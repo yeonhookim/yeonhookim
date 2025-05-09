@@ -4,21 +4,16 @@
   <tr>
     <td align="center" width="140">
       <img src="https://img.shields.io/badge/Data Science-DF1F2D?style=flat-square&logo=databricks&logoColor=white" height="22"/><br>
-      <span style="font-size:13px; color:#DF1F2D; font-weight:bold;">주전공</span>
+      <span style="font-size:13px; color:#DF1F2D; font-weight:bold;">Major</span>
     </td>
     <td align="center" width="140">
       <img src="https://img.shields.io/badge/Software-2B3784?style=flat-square&logo=visualstudiocode&logoColor=white" height="22"/><br>
-      <span style="font-size:13px; color:#2B3784; font-weight:bold;">복수전공</span>
+      <span style="font-size:13px; color:#2B3784; font-weight:bold;">Double Major</span>
     </td>
   </tr>
 </table>
 
 </div>
-
-
-
-
-
 ## 🕸️ Tech Stack
 
 ### 🕷️ Front-End
