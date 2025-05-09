@@ -11,8 +11,7 @@
 ![Python](https://img.shields.io/badge/Python-2B3784?style=for-the-badge&logo=python&logoColor=white)
 
 <!-- GitHub Stats -->
-
-![soollaassiido's GitHub stats](https://github-readme-stats.vercel.app/api?username=soollaassiido&show_icons=true&theme=dark)
+![kimyeonhoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyeonhoo&show_icons=true&theme=dark)
 
 
 <!--
@@ -21,7 +20,6 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 
-![kimyeonhoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyeonhoo&show_icons=true&theme=dark)
 <!--
 **yeonhookim/yeonhookim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
