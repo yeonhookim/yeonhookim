@@ -47,10 +47,8 @@
 ---
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=soollaassiido)](https://solved.ac/soollaassiido)
-
-<!-- GitHub Stats -->
-![kimyeonhoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyeonhoo&show_icons=true&theme=dark)
+| [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=soollaassiido)](https://solved.ac/soollaassiido) | ![kimyeonhoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyeonhoo&show_icons=true&theme=dark) |
+| :---: | :---: |
 
 
 <!--
