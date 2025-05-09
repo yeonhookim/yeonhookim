@@ -1,5 +1,25 @@
+<div align="center">
 
-<!-- 🕸️ 기술 스택: 스파이더맨 테마 -->
+  <img src="https://img.icons8.com/color/96/000000/spiderman-head.png" width="80" alt="spiderman logo"/>
+
+  # 🕸️ Hello! I'm Yeonhoo Kim, an aspiring full-stack developer 🕷️
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Data Science-DF1F2D?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Software-2B3784?style=for-the-badge&logo=windows&logoColor=white"/>
+
+  <br/><br/>
+
+  Hi there! I'm Yeonhoo Kim, currently studying full-stack development with a passion for both front-end and back-end technologies.<br/>
+  <b>Major:</b> Data Science  &nbsp; | &nbsp; <b>Double Major:</b> Software Engineering
+
+  <br/><br/>
+
+  🕸️ "With great power comes great responsibility." 🕸️
+
+</div>
+
 
 ## 🕸️ Tech Stack
 
