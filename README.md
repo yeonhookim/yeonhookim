@@ -7,7 +7,7 @@
 
 ### 🕷️ Front-End
 <div align="center">
-  
+
   ![Vue.js](https://img.shields.io/badge/Vue.js-2B3784?style=for-the-badge&logo=vuedotjs&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-DF1F2D?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-2B3784?style=for-the-badge&logo=css3&logoColor=white)
@@ -15,13 +15,31 @@
 
 </div>
 
+---
+
 ### 🕷️ Back-End
 <div align="center">
 
   ![Java](https://img.shields.io/badge/Java-DF1F2D?style=for-the-badge&logo=java&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-2B3784?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
+
+---
+
+### 🕷️ Data Analysis
+<div align="center">
+
+  ![Python](https://img.shields.io/badge/Python-2B3784?style=for-the-badge&logo=python&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-DF1F2D?style=for-the-badge&logo=numpy&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-2B3784?style=for-the-badge&logo=pandas&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-DF1F2D?style=for-the-badge&logo=matplotlib&logoColor=white)
+  ![Seaborn](https://img.shields.io/badge/Seaborn-2B3784?style=for-the-badge&logo=seaborn&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-DF1F2D?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-2B3784?style=for-the-badge&logo=pytorch&logoColor=white)
+  ![Keras](https://img.shields.io/badge/Keras-DF1F2D?style=for-the-badge&logo=keras&logoColor=white)
+
+</div>
+
 
 
 <!-- GitHub Stats -->
