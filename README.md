@@ -1,5 +1,4 @@
 
-## 📊 GitHub Stats
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=soollaassiido)](https://solved.ac/soollaassiido)
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)
