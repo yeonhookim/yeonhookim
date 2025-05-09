@@ -1,6 +1,6 @@
 <div align="center">
 
-| <img src="https://img.shields.io/badge/Data Science-DF1F2D?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Science" width="150"/> <br/> <span style="color:#DF1F2D; font-weight:bold;">Major</span> | <img src="https://img.shields.io/badge/Software-2B3784?style=for-the-badge&logo=code&logoColor=white" alt="Software" width="150"/> <br/> <span style="color:#2B3784; font-weight:bold;">Double Major</span> |
+| <img src="https://img.shields.io/badge/Data Science-DF1F2D?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Science" width="150"/> <br/> <span style="color:#DF1F2D; font-weight:bold;">Major</span> | <img src="https://img.shields.io/badge/Software-2B3784?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Software" width="150"/> <br/> <span style="color:#2B3784; font-weight:bold;">Double Major</span> |
 | :---: | :---: |
 
 </div>
