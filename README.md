@@ -2,13 +2,29 @@
 
   <br/><br/>
 
-  Hi there! I'm Yeonhoo Kim, currently studying full-stack development with a passion for both front-end and back-end technologies.<br/>
-  <b>Major:</b> Data Science  &nbsp; | &nbsp; <b>Double Major:</b> Software Engineering
-  <img src="https://img.shields.io/badge/Data Science-DF1F2D?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Software-2B3784?style=for-the-badge&logo=windows&logoColor=white"/>
+  <p style="font-size:1.2em; font-weight:bold;">
+    Hi there! I'm Yeonhoo Kim, currently studying full-stack development with a passion for both front-end and back-end technologies.
+  </p>
+
+  <br/>
+
+  <table>
+    <tr>
+      <td align="center" width="180">
+        <img src="https://img.shields.io/badge/Data Science-DF1F2D?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Science"/>
+        <div style="margin-top:5px; font-weight:bold; color:#DF1F2D;">Major</div>
+      </td>
+      <td align="center" width="180">
+        <img src="https://img.shields.io/badge/Software-2B3784?style=for-the-badge&logo=windows&logoColor=white" alt="Software"/>
+        <div style="margin-top:5px; font-weight:bold; color:#2B3784;">Double Major</div>
+      </td>
+    </tr>
+  </table>
 
   <br/><br/>
+
 </div>
+
 
 
 ## 🕸️ Tech Stack
